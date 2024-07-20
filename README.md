@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with skills in
 
 ## 🌐 Public Profiles
 <div align="center">
-  <a href="[www.linkedin.com/in/dipak-das-45105a28b](https://www.linkedin.com/in/firoj-sk-56b842250/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/firoj-sk-56b842250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   
 
 ## 📈 GitHub Stats
