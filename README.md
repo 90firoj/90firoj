@@ -1,4 +1,4 @@
-# Hi there, I'm [Firoj] 👋
+<!--# Hi there, I'm [Firoj] 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with skills in various programming languages and technologies. Here are some of the things I love working with:
 
@@ -30,4 +30,4 @@ Welcome to my GitHub profile! I'm a passionate software developer with skills in
 ## 📫 How to reach me
 <div align="center">
   <a href="mailto:dipakdas84630@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
+</div>-->
